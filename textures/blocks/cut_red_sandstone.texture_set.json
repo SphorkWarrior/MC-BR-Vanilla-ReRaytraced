@@ -1,0 +1,8 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "cut_red_sandstone",
+		"metalness_emissive_roughness": "cut_red_sandstone_mer",
+		"normal": "cut_red_sandstone_normal"
+	}
+}

@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Vanila Raytraced Combo Dev",
+        "description": "A shiny, creepy, and full set of §aRaytraced §ftexture packs (Vanila Raytraced + Bloody Nether + Vanila RTX)",
+        "version": [1, 0, 0],
+        "uuid": "0188bf36-2015-2017-1983-c9eaef34ef89",
+		"min_engine_version": [1, 15, 0]
+    },
+    "modules": [
+        {
+            "version": [1, 0, 0],
+            "type": "resources",
+            "uuid": "b9f5faaf-2017-2015-1983-1fa1c30a04f9"
+        }
+    ],
+    "capabilities" : [
+            "raytraced"
+    ]
+}
